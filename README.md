@@ -1,6 +1,6 @@
 
 
-![image] 
+
 
 
 <!-- Intro  -->
@@ -11,11 +11,7 @@
 </h3>
 
 
-<p align="center">
- <a href="https://instagram.com/kimrnin" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- 
+
 
 
 <!-- About Section -->
@@ -28,6 +24,13 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ssafykms@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ssmins/ssmins/issues)
+
+
+<p align="center">
+ <a href="https://instagram.com/kimrnin" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ 
 
 </p>
 
